@@ -1,0 +1,27 @@
+
+.para1{
+    background-color: antiquewhite;
+    text-align: justify;
+    width: 80%;
+}
+.para1::first-letter{
+    font-size: 25px;
+    font-weight: bold;
+}
+.para2{
+    margin-top: 20px;
+    background-color: rgb(17, 69, 102);
+    border-top: 3px solid #000;
+    color: white;
+}
+.para3{
+    
+    background-color: rgb(25, 97, 138);
+    color: #fff;
+    padding-top: 40px;
+    padding-left: 32px;
+    padding-right: 35px;
+    padding-bottom: 25px;
+    border-top: 3px solid #000;
+    width: 60%;
+}

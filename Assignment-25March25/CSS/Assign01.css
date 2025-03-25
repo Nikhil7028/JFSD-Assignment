@@ -1,0 +1,59 @@
+body{
+    
+    color: white;
+}
+.first{
+    background-color: green;
+    padding-bottom: 10px;
+}
+.title{
+    margin: auto;
+    width: 50%;
+}
+.para1{
+    border: 3px solid black;
+    margin-left: 50%;
+    padding: 7px;
+    background-color: rgb(25, 25, 57);
+
+}
+.para2{
+    border: 2px solid black;
+    height: 89px;
+    width: 70%;
+    margin-top: 15px;
+    background-color: rgb(25, 25, 57);
+}
+.para3{
+    border: 1px solid blue;
+    margin-top: 59px;
+    padding: 10px;
+    background-color: rgb(36, 52, 158);
+}
+
+.para4{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(25, 84, 107);
+}
+.nav{
+    display: inline;
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 3px;
+    margin: 2px;
+}
+
+.nav1{
+    background-color: rgb(20, 66, 174);
+}
+.nav2{
+    background-color: rgb(124, 48, 185);
+}
+.nav3{
+    background-color: rgb(18, 27, 26);
+}
+.nav4{
+    background-color: rgb(63, 61, 20);
+}
